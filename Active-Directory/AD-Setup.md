@@ -31,7 +31,7 @@ Active Directory Domain Services (AD DS) is used to manage users, computers, and
 ---
 ## 📸 Screenshots
 
-![AD Setup](./test1.png)
+![AD Setup] /test1.png
 
 ## 💼 Real-World Relevance
 This setup reflects how enterprise environments manage users, permissions, and systems centrally using Active Directory.
