@@ -13,25 +13,13 @@ The process included:
 - Running SQL queries (SELECT, UPDATE, DELETE)  
 
 ---
-
 ## 📌 Step 1: Create Database
 
 ```sql
 CREATE DATABASE VMS;
 ```
-
+This database stores all related tables and data.
 ---
-
-👉 This database stores all related tables and data.
-
 ## 📌 Step 2: Create Tables
 
-Tables were created based on the normalised structure.
-CREATE TABLE CusDetails (
-    CustomerID INT PRIMARY KEY,
-    CusName VARCHAR(255),
-    CusEmail VARCHAR(255),
-    CusCity VARCHAR(255),
-    CusPhone VARCHAR(255),
-    LicenseNumber VARCHAR(255)
-);
+
