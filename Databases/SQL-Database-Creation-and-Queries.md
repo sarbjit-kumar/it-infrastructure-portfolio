@@ -18,6 +18,7 @@ The process included:
 
 ```sql
 CREATE DATABASE VMS;
+```
 
 ---
 
