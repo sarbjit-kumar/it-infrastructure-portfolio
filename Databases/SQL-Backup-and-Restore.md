@@ -37,3 +37,5 @@ Before performing backup, appropriate folder permissions were configured to allo
 ```sql
 BACKUP DATABASE VMS
 TO DISK = 'C:\Backup\VMS.bak';
+```
+This creates a full backup of the database.
