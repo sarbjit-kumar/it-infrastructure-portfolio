@@ -35,6 +35,10 @@ This repository contains my hands-on lab work and practical implementations in I
 - iSCSI storage
 
 ---
+## 📚 About This Repository
+
+This repository contains my practical labs, projects, and cybersecurity studies completed during my IT training.  
+All content is based on my own work, structured and refined for professional portfolio use.
 
 ## 📌 About Me
 
