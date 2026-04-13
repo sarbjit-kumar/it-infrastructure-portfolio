@@ -25,4 +25,18 @@ This database stores all related tables and data.
 
 ## 📌 Step 2: Create Tables
 
+Tables were created based on the normalised structure.
+
+```sql
+CREATE TABLE CusDetails (
+    CustomerID INT PRIMARY KEY,
+    CusName VARCHAR(255),
+    CusEmail VARCHAR(255),
+    CusCity VARCHAR(255),
+    CusPhone VARCHAR(255),
+    LicenseNumber VARCHAR(255)
+);
+```
+
+
 
