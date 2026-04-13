@@ -15,6 +15,14 @@ This section contains my cybersecurity notes and case studies covering common at
 - 🔐 Multi-Factor Authentication (MFA)  
 
 ---
+## 🧠 Structure
+
+This section is organised into:
+- Attack Types (Phishing, DoS, MITM, etc.)
+- Security Concepts (Authentication, MFA)
+
+Each topic is documented in a short, easy-to-review format.
+---
 
 ## 🎯 Key Learning
 
