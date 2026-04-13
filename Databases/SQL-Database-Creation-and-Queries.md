@@ -13,13 +13,16 @@ The process included:
 - Running SQL queries (SELECT, UPDATE, DELETE)  
 
 ---
+
 ## 📌 Step 1: Create Database
 
 ```sql
 CREATE DATABASE VMS;
 ```
 This database stores all related tables and data.
+
 ---
+
 ## 📌 Step 2: Create Tables
 
 
