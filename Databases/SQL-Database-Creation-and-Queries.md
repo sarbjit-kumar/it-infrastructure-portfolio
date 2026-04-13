@@ -131,7 +131,8 @@ WHERE CusName = 'Ari';
 UPDATE modifies existing data.
 
 ---
-## 📌 Key Concepts Demonstrated
+
+ ## 📌 Key Concepts Demonstrated
 
 - Database creation  
 - Table design  
@@ -156,6 +157,9 @@ SQL is widely used in:
 
 - Banking systems  
 - E-commerce platforms  
+- Customer management systems  
+
+👉 This lab reflects real-world database operations.
 - Customer management systems  
 
 👉 This lab reflects real-world database operations.
