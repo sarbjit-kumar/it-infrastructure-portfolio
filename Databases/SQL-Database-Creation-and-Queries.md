@@ -17,4 +17,5 @@ The process included:
 
 ```sql
 CREATE DATABASE VMS;
+
 This database stores all related tables and data.
