@@ -39,3 +39,47 @@ BACKUP DATABASE VMS
 TO DISK = 'C:\Backup\VMS.bak';
 ```
 This creates a full backup of the database.
+
+---
+
+## 📌 Restore Process
+
+To simulate data loss, the database can be restored from the backup file.
+
+### Restore Query
+
+```sql
+RESTORE DATABASE VMS
+FROM DISK = 'C:\Backup\VMS.bak';
+```
+This restores the database to its previous state.
+
+---
+
+## 📌 Validation
+
+- Backup file successfully created  
+- Database restored without errors  
+- Data verified after restore  
+
+👉 This confirms successful backup and recovery.
+
+---
+
+## 🔗 Integration with Other Topics
+
+- Cybersecurity → Protects against ransomware and data loss  
+- IT Operations → Supports business continuity  
+- SQL → Enables backup and restore commands  
+
+---
+
+## 📌 Real-world Relevance
+
+Database backup and recovery are essential in all organisations to ensure data availability and continuity.
+
+
+
+
+
+
