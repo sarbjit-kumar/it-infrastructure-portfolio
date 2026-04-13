@@ -27,3 +27,8 @@ This section contains my cybersecurity notes and case studies covering common at
 ## 💼 Real-world Relevance
 
 These concepts are essential for protecting systems, networks, and users in modern IT environments.
+
+## 📝 Note
+
+All content in this section has been created by me as part of my coursework and personal study during my IT training.  
+The materials are structured and refined for learning, revision, and portfolio purposes.
