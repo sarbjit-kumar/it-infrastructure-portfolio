@@ -19,6 +19,8 @@ The process included:
 ```sql
 CREATE DATABASE VMS;
 
+---
+
 👉 This database stores all related tables and data.
 
 ## 📌 Step 2: Create Tables
