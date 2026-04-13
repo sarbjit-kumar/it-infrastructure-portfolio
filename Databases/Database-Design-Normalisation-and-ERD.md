@@ -140,6 +140,9 @@ This design was used to:
 👉 Normalisation → ER Diagram → SQL Implementation
 
 ---
+## 📸 ER Diagram
+![ER Diagram](images/er-diagram.png)
+---
 
 ## 🔥 Important Line
 
