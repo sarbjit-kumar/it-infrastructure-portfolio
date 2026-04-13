@@ -131,3 +131,32 @@ WHERE CusName = 'Ari';
 UPDATE modifies existing data.
 
 ---
+## 📌 Key Concepts Demonstrated
+
+- Database creation  
+- Table design  
+- Primary and foreign keys  
+- Data insertion  
+- Data retrieval  
+- Data modification  
+
+---
+
+## 🔗 Integration with Design
+
+- Normalisation → Used to design tables  
+- ER Diagram → Defined relationships  
+- SQL → Implemented the database  
+
+---
+
+## 📌 Real-world Relevance
+
+SQL is widely used in:
+
+- Banking systems  
+- E-commerce platforms  
+- Customer management systems  
+
+👉 This lab reflects real-world database operations.
+
