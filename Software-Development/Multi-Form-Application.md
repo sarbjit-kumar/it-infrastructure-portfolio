@@ -72,3 +72,19 @@ Each form is connected using button click events.
 ```vb
 ApplyForm.Show()
 Me.Hide()
+```
+
+---
+
+## 📌 Validation Implementation
+
+
+### Empty Field Validation
+
+```vb
+If TxtUsername.Text = "" Or TxtPassword.Text = "" Then
+    MessageBox.Show("Fields cannot be empty")
+End If
+```
+
+---
