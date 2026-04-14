@@ -29,6 +29,14 @@ These skills are relevant for entry-level software development, application supp
 
 ---
 
+## 📂 Files
+
+- [Visual Studio Fundamentals](01-Visual-Studio-Fundamentals.md)
+- [Student Registration Form](02-Student-Registration-Form.md)
+- [Multi Form Application](03-Multi-Form-Application.md)
+
+---
+
 ## 📝 Note
 
 All content in this section is based on my own coursework and practical lab work, structured and refined for portfolio purposes.
