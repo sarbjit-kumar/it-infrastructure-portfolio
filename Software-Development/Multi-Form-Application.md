@@ -88,3 +88,102 @@ End If
 ```
 
 ---
+
+### Email Validation
+
+```vb
+If Not TxtEmail.Text.Contains("@") Then
+    MessageBox.Show("Invalid Email Format")
+End If
+```
+
+---
+
+### Mobile Number Validation
+
+```vb
+If TxtMobile.Text.Length < 9 Then
+    MessageBox.Show("Invalid Mobile Number")
+End If
+```
+
+---
+
+## 📌 User Testing
+
+User testing confirmed:
+
+- Submit buttons worked on all forms  
+- Validation messages displayed correctly  
+- Navigation worked correctly  
+
+---
+
+## 🐞 Debugging
+
+Debugging was performed using breakpoints:
+
+- Breakpoints were added in validation code  
+- Step-by-step execution helped identify issues  
+
+---
+
+## 🧪 Black Box Testing
+
+Example test cases:
+
+| Test Case     | Input        | Expected Output        |
+|--------------|-------------|----------------------|
+| Empty fields | No input    | Error message        |
+| Invalid email| wrongformat | Validation error     |
+| Valid input  | correct data| Successful submission|
+
+---
+
+## 📊 Application Analysis
+
+### 🔹 Strengths
+
+- User-friendly design  
+- Multiple form navigation  
+- Validations implemented  
+
+---
+
+### 🔹 Limitations
+
+- No database integration  
+- Basic validations only  
+
+---
+
+### 🔹 Recommendations
+
+- Add database support  
+- Improve UI design  
+- Add advanced validations  
+
+---
+
+## 📌 Key Concepts Demonstrated
+
+- Multi-form design  
+- Navigation logic  
+- Event-driven programming  
+- Validation  
+- Debugging and testing  
+
+---
+
+## 📌 Real-world Relevance
+
+Multi-form applications are used in:
+
+- Student management systems  
+- Registration systems  
+- Business software  
+
+
+
+
+
