@@ -109,3 +109,59 @@ Handle all components carefully and avoid using force.
 
 ---
 
+## 🛠️ Computer Assembly
+
+### 📌 Purpose
+
+Assembly involves building a complete computer system by installing all components correctly.
+
+---
+
+## 📌 Steps for Assembly
+
+```text
+Step 1: Install CPU on motherboard
+Step 2: Install CPU cooler
+Step 3: Install RAM modules
+Step 4: Mount motherboard into case
+Step 5: Install storage devices (SSD/HDD)
+Step 6: Install power supply unit (PSU)
+Step 7: Connect power and data cables
+Step 8: Install expansion cards
+Step 9: Close the case
+Step 10: Connect external devices
+Step 11: Power on the system
+```
+
+---
+
+## 📌 Final Checks
+
+Before powering on:
+
+- Ensure all cables are connected properly  
+- Check all components are securely installed  
+- Confirm no loose screws or parts  
+
+---
+
+## 📌 Key Concepts Demonstrated
+
+- Safe handling of computer components  
+- Understanding of ESD protection  
+- Step-by-step assembly and disassembly  
+- Hardware maintenance practices  
+
+---
+
+## 📌 Real-world Relevance
+
+These skills are important for:
+
+- IT Support Technicians  
+- Hardware Engineers  
+- System Builders  
+
+👉 Proper handling reduces hardware failure and ensures system reliability.
+
+
