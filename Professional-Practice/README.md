@@ -1,1 +1,1 @@
-### $\color{orange}{\text{Orange Heading}}$
+### $\color{blue}{\text{Orange Heading}}$
