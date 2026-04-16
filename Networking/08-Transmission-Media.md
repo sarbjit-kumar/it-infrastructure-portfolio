@@ -13,159 +13,102 @@ Transmission media is mainly divided into:
 
 ---
 
-## 🧵 Wired (Guided) Media
-
-Wired media uses physical cables to transmit data.
+# 🧵 Wired (Guided) Media
 
 ---
 
 ## 🔹 Twisted Pair Cable (UTP / STP)
 
 ### 📌 Definition
-
 Twisted pair cables consist of pairs of wires twisted together to reduce interference.
 
-### 📌 Types
+### 📊 Summary
 
-- **UTP (Unshielded Twisted Pair)** → Common and low cost  
-- **STP (Shielded Twisted Pair)** → Better protection from interference  
-
-### 📌 Advantages
-
-- Low cost  
-- Easy to install  
-- Widely used  
-
-### 📌 Disadvantages
-
-- Limited distance  
-- Susceptible to interference (especially UTP)  
-
-### 📌 Use Case
-
-- Ethernet networks  
-- Office LANs  
+| Category | Details |
+|----------|--------|
+| Types | UTP (low cost), STP (better shielding) |
+| Advantages | Low cost <br> Easy to install <br> Widely used |
+| Disadvantages | Limited distance <br> Susceptible to interference |
+| Use Case | Ethernet networks <br> Office LANs |
 
 ---
 
 ## 🔹 Coaxial Cable
 
 ### 📌 Definition
-
 Coaxial cable has a central conductor surrounded by insulation and shielding.
 
-### 📌 Advantages
+### 📊 Summary
 
-- Better shielding than twisted pair  
-- Less interference  
-
-### 📌 Disadvantages
-
-- Bulkier and less flexible  
-- More expensive than UTP  
-
-### 📌 Use Case
-
-- Cable TV  
-- Older network systems  
+| Category | Details |
+|----------|--------|
+| Advantages | Better shielding <br> Less interference |
+| Disadvantages | Bulkier and less flexible <br> More expensive than UTP |
+| Use Case | Cable TV <br> Older networks |
 
 ---
 
 ## 🔹 Fibre Optic Cable
 
 ### 📌 Definition
-
 Fibre optic cables use light signals to transmit data at very high speeds.
 
-### 📌 Advantages
+### 📊 Summary
 
-- Very high speed  
-- Long-distance communication  
-- No electromagnetic interference  
-
-### 📌 Disadvantages
-
-- Expensive  
-- Difficult to install and maintain  
-
-### 📌 Use Case
-
-- Internet backbone  
-- Data centres  
-- Long-distance communication  
+| Category | Details |
+|----------|--------|
+| Advantages | Very high speed <br> Long-distance communication <br> No interference |
+| Disadvantages | Expensive <br> Difficult to install |
+| Use Case | Internet backbone <br> Data centres <br> Long-distance communication |
 
 ---
 
-## 📡 Wireless (Unguided) Media
-
-Wireless media transmits data without physical cables.
+# 📡 Wireless (Unguided) Media
 
 ---
 
 ## 🔹 Wi-Fi
 
 ### 📌 Definition
-
 Wi-Fi uses radio waves to connect devices wirelessly.
 
-### 📌 Advantages
+### 📊 Summary
 
-- Mobility and flexibility  
-- Easy to set up  
-
-### 📌 Disadvantages
-
-- Signal interference  
-- Limited range  
-
-### 📌 Use Case
-
-- Home and office networks  
+| Category | Details |
+|----------|--------|
+| Advantages | Mobility and flexibility <br> Easy to set up |
+| Disadvantages | Signal interference <br> Limited range |
+| Use Case | Home networks <br> Office networks |
 
 ---
 
 ## 🔹 Bluetooth
 
 ### 📌 Definition
-
 Bluetooth is used for short-range communication between devices.
 
-### 📌 Advantages
+### 📊 Summary
 
-- Low power consumption  
-- Easy device pairing  
-
-### 📌 Disadvantages
-
-- Very short range  
-- Lower data speed  
-
-### 📌 Use Case
-
-- Headphones  
-- Mobile devices  
+| Category | Details |
+|----------|--------|
+| Advantages | Low power consumption <br> Easy pairing |
+| Disadvantages | Very short range <br> Lower speed |
+| Use Case | Headphones <br> Mobile devices |
 
 ---
 
 ## 🔹 Satellite Communication
 
 ### 📌 Definition
-
 Satellite communication uses satellites to transmit data over large distances.
 
-### 📌 Advantages
+### 📊 Summary
 
-- Wide coverage (global)  
-
-### 📌 Disadvantages
-
-- High latency  
-- Expensive  
-
-### 📌 Use Case
-
-- Remote areas  
-- Global communication  
+| Category | Details |
+|----------|--------|
+| Advantages | Wide coverage (global) |
+| Disadvantages | High latency <br> Expensive |
+| Use Case | Remote areas <br> Global communication |
 
 ---
 
