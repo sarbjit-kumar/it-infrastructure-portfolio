@@ -1,3 +1,16 @@
+## 🧪 Lab Environment
+
+This troubleshooting was performed using Cisco Packet Tracer, a network simulation tool used to design, configure, and test network scenarios.
+
+The lab environment included:
+
+- PCs, servers, routers, and switches  
+- DHCP and DNS configurations  
+- Wireless access points  
+- Routing using RIP  
+
+This allowed safe testing of real-world networking issues without physical hardware.
+
 # 🛠️ Network Troubleshooting Scenarios
 
 ## 📌 Overview
